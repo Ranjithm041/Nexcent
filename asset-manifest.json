@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Nexcent/static/css/main.81d17190.css",
+    "main.js": "/Nexcent/static/js/main.c9375b96.js",
+    "static/media/image18.png": "/Nexcent/static/media/image18.5563f2194faed7c5fd31.png",
+    "static/media/image19.png": "/Nexcent/static/media/image19.3d52ab0a5bc942cb362c.png",
+    "static/media/image20.png": "/Nexcent/static/media/image20.16d72b7727be0ec443ad.png",
+    "static/media/image9.png": "/Nexcent/static/media/image9.bbab29b16ae442ebc395.png",
+    "static/media/Illustration.png": "/Nexcent/static/media/Illustration.54b1c3e373e00e42e75f.png",
+    "static/media/Frame3.png": "/Nexcent/static/media/Frame3.4b832f836fd774f292f8.png",
+    "static/media/pana.png": "/Nexcent/static/media/pana.0b8fa25044982eb5f040.png",
+    "index.html": "/Nexcent/index.html",
+    "main.81d17190.css.map": "/Nexcent/static/css/main.81d17190.css.map",
+    "main.c9375b96.js.map": "/Nexcent/static/js/main.c9375b96.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81d17190.css",
+    "static/js/main.c9375b96.js"
+  ]
+}
